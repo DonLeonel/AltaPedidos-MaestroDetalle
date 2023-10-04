@@ -1,0 +1,31 @@
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\RecuperatorioProgI\ExaFi23-11_Recu\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\1-PROGRAMACION\2-PROGRAMACION II\23-11-22_RecuMaestroDetalle\ParcialApp\obj\Debug\ParcialApp.pdb
